@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": true,
+    "author": "Kloct",
+    "options":
+    {
+        "niceName:": "Exodor-Flight",
+        "guiName": "Exodor-Flight"
+    },
+    "name": "exodor-flight",
+    "description": "Enable and Disable Flight in the new Exodor area."
+    
+}
