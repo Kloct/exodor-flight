@@ -1,4 +1,5 @@
 {
+    "disableAutoUpdate": false,
     "author": "Kloct",
     "options": {
         "niceName:": "Exodor-Flight",
@@ -6,6 +7,5 @@
     },
     "name": "exodor-flight",
     "description": "Enables Flight in Exodor for all Flying Mounts",
-    "servers": ["https://raw.githubusercontent.com/Kloct/exodor-flight/master/"],
-    "disableAutoUpdate": false
+    "servers": ["https://raw.githubusercontent.com/Kloct/exodor-flight/master/"]
 }
