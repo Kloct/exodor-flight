@@ -6,6 +6,6 @@
     },
     "name": "exodor-flight",
     "description": "Enables Flight in Exodor for all Flying Mounts",
-    "servers": ["https://raw.githubusercontent.com/kloct/exodor-flight"],
+    "servers": ["https://raw.githubusercontent.com/Kloct/exodor-flight/master/manifest.json"],
     "disableAutoUpdate": false
 }
