@@ -1,12 +1,11 @@
 {
-    "disableAutoUpdate": true,
     "author": "Kloct",
-    "options":
-    {
+    "options": {
         "niceName:": "Exodor-Flight",
         "guiName": "Exodor-Flight"
     },
     "name": "exodor-flight",
-    "description": "Enable and Disable Flight in the new Exodor area."
-    
+    "description": "Enables Flight in Exodor for all Flying Mounts",
+    "servers": ["https://raw.githubusercontent.com/kloct/exodor-flight"],
+    "disableAutoUpdate": false
 }
