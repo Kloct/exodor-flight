@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": false,
+    "name": "Exodor-Flight",
     "author": "Kloct",
+    "description": "Enables flight in Exodor for all flying mounts",
     "options": {
-        "niceName:": "Exodor-Flight",
-        "guiName": "Exodor-Flight"
+        "niceName:": "Exodor Flight"
     },
-    "name": "exodor-flight",
-    "description": "Enables Flight in Exodor for all Flying Mounts",
-    "servers": ["https://raw.githubusercontent.com/Kloct/exodor-flight/master/"]
+    "servers": ["https://raw.githubusercontent.com/Kloct/exodor-flight/master/"],
+    "supportURL": "https://github.com/Kloct/exodor-flight/issues"
 }
